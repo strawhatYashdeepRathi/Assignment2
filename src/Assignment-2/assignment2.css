@@ -5,3 +5,76 @@
 width: 100%;
 height: 100%;
 }
+.header {
+    padding: 70px;
+    text-align: start; 
+    background: #6fbd4a;
+    color: white;
+    font-size: 15px;
+  }
+.logo{
+    float: left;
+}
+.search{
+    text-align: right;
+}
+.navi{
+    text-align: center;
+    margin: 7px;
+    background: #9be9f3;
+    padding: 12px;
+}
+.navblock{
+    font-size: 20px;
+    padding: 8px;
+    outline: 0.5px solid rgb(17, 8, 8)
+}
+.main_content{
+    display: inline-flex;
+    margin: 10px;
+    outline: 0.5px solid rgb(17, 8, 8)
+}
+.leftlist li{
+    list-style-type: none;
+}
+
+.rightlist{
+    list-style-type: none;
+}
+
+.middle_content img{
+    width: 100px;
+}
+
+.leftlist{
+    margin-right: 220px;
+    padding-right: 30px;
+    background-color: lightyellow;
+}
+.middle_content{
+    padding-right: 300px;
+    margin-right: 210px;
+}
+.sidebar_right{  
+    float: right;
+    padding-right: 25px;
+    background-color: lightyellow;
+    margin-right: 205px;
+    float: right;
+}
+.leftlist ul{
+    color:black;
+    text-decoration:solid;
+}
+.sidebar_right ul{
+    color:black;
+    text-decoration:solid;
+}
+p{
+    color:black;
+    text-decoration:  none;
+}
+.footer{
+    outline: 0.5px solid rgb(17, 8, 8)
+    
+}
